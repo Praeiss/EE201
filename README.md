@@ -1,5 +1,6 @@
 
-# EE201
+# Hello my name is Parsa
 
-Hello World! Here's the first file for my *EE201* class. I had no idea using
-gitHub would be so damn tedious for the first time :sweat:.
+## I am a third year studying **Electrical Engineering** focusing on the embedded systems pathway.
+
+I had no idea using gitHub would be so damn tedious for the first time :sweat:.
